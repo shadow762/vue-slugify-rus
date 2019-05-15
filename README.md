@@ -1,2 +1,2 @@
 # vue-slugify-rus
-slugify with russian sybmols
+slugify with russian symbols

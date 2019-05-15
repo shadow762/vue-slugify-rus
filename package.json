@@ -1,0 +1,31 @@
+{
+  "name": "vue-slugify-rus",
+  "version": "0.1.0",
+  "description": "create slug from string",
+  "main": "slugify-rus.js",
+  "files": [
+    "slugify-rus.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadow762/vue-slugify-rus.git"
+  },
+  "keywords": [
+    "slug",
+    "vue",
+    "slugify",
+    "rus"
+  ],
+  "author": {
+    "name": "Vladimir Kazalin",
+    "email": "shadow762@list.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadow762/vue-slugify-rus/issues"
+  },
+  "homepage": "https://github.com/shadow762/vue-slugify-rus#readme"
+}
